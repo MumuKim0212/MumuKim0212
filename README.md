@@ -1,4 +1,4 @@
-## Hi there 👋
+[![GitGarden](https://gitgarden.marshallku.dev/?user_name=MumuKim0212)](https://github.com/marshallku/gitgarden)
 
 <!--
 **MumuKim0212/MumuKim0212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
